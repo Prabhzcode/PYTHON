@@ -39,4 +39,4 @@ def chaicode(num):
 sq = chaicode(2)
 cube = chaicode(3)
 print("Square is : ",sq(2))
-print("Cube is   : ",cube(2))
+print("Cube is   :  ",cube(2))
