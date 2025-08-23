@@ -1,5 +1,5 @@
 #functions as first class objects
-#write a decorator function that measures the time taken by a fucntion to execute
+#write a decorator function tt measures the time taken by a fucntion to execute
 import time
 
 def timer (func):
